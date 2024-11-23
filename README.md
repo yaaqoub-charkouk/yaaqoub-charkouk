@@ -1,7 +1,7 @@
 <h1 align="center">Yaaqoub CHARKOUK</h1>
 
+
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/yaaqoub-charkouk/"><h1 align="center">
   <a href="https://www.linkedin.com/in/yaaqoub-charkouk/">
     <div style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height: 210px;border-radius:10px;background-color:#000;display:flex;flex-direction:column;align-items:center;justify-content:center">
         
@@ -12,7 +12,10 @@
         </div>
         
         <div style="margin-bottom:20px;display:flex;align-items:center;justify-content:center">
-            <div style="margin-right:20px;height:75px;width:75px;border-radius:10px;background:#f0f0f0;background-image:url(https://github.com/yaaqoub-charkouk/yaaqoub-charkouk/blob/main/download.jpeg?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center"></div>
+            <!-- Use a simple image tag for the profile picture -->
+            <div style="margin-right:20px;height:75px;width:75px;border-radius:10px;">
+                <img src="https://github.com/yaaqoub-charkouk/yaaqoub-charkouk/blob/main/download.jpeg?raw=true" alt="Profile Picture" style="width:100%;height:100%;border-radius:10px;">
+            </div>
             <table style="font-size:16px">
                 <tr>
                     <td style="padding-right:10px">name:</td>
@@ -34,6 +37,7 @@
                 STUDENT 
             </div>
             <div style="display:flex;align-items:center">
+                <!-- Ensure the badge images are loaded correctly -->
                 <img src="https://raw.githubusercontent.com/yaaqoub-charkouk/yaaqoub-charkouk/1a898379e58a7026f9023cb19d5198e60631ea8b/1337.svg" width="57" height="15" style="margin-right: 20px;">
                 <img src="https://raw.githubusercontent.com/yaaqoub-charkouk/yaaqoub-charkouk/b6fe12d1c52a3b6851435f5f1c9314be29dc0258/42.svg" width="57" height="15" style="margin-left:20px;">
             </div>
@@ -41,6 +45,7 @@
     </div>
   </a>
 </h1>
+
 
 
 
