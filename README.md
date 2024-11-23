@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaaqoub CHARKOUK</h1>
+<h1 align="center">Yaaqoub CHARKOUK</h1>
 
 <h1 align="center"><a href="https://www.linkedin.com/in/yaaqoub-charkouk/"><img src="https://badge.mediaplus.ma/greenbinary/ycharkou" alt="ycharkou's 42 stats" /></a></h1>
 <h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
