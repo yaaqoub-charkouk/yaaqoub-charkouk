@@ -1,131 +1,48 @@
-# 👋 Hello, I'm Yaaqoub Charkouk
+<h1 align="center">Hi 👋, I'm Aaqoub Charkouk</h1>
 
-🌟 **Current Student | Networking Technician | Computer Science Enthusiast**
+<h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
 
-Welcome to my GitHub profile! I'm a passionate Networking Technician with a strong background in computer maintenance and networking. Currently pursuing my degree in **Mathematics and Computer Science** at the Faculty of Science in Tétouan, and actively enrolled in **1337 Coding School**, part of the **42 Network**. I am excited to learn, collaborate, and contribute to the technology world.
+- 🔭 I’m currently working on **coding projects** as part of my journey at [1337 School](https://1337.ma/), a proud member of the 42 Network.
 
----
+- 🌱 I’m actively expanding my skills in **Networking**, **C Programming**, and **Mathematics** through challenging exercises and real-world applications.
 
-## 🎓 Education
+- 💬 Ask me about **Computer Networking**, **System Maintenance**, or **C programming**.
 
-| **Institution**                           | **Degree**                                      | **Year**                | **Activities**                                                                 |
-| ---------------------------------------- | ---------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------- |
-| **1337 Coding School**                   | Software Engineering (Coding School)            | **2024 - 2027**         | Peer-to-Peer Learning, Coding, Project-Based Learning, Problem-Solving        |
-| **Université Abdelmalek Essaâdi Tétouan** | Bachelor of Science in Mathematics and Computer Science | **2023 - 2026**         | Coding, Programming, Research, Join Clubs, Teach and Tutor                   |
-| **ISMONTIC (Institute of Offshoring Jobs, Tetouan)** | Computer Maintenance and Networking Technician (Bac Pro) | **2020 - 2023**         | Workshops, Industry Conferences, Networking, Troubleshooting, Cisco Simulations |
-| **Al Imam Al Ghazali Qualifying High School** | Baccalaureate (Very Good)                        | **2021 - 2023**         | Academic Excellence, Technology Clubs, Team Projects                         |
+- 📚 I am pursuing my degree in **Mathematics and Computer Science** at the Faculty of Science in Tétouan.
+
+- ⚡ Fun fact: **I thrive on problem-solving and teamwork!**
 
 ---
 
-## 🏅 Licenses & Certifications
-
-Here are some of my key certifications that reflect my ongoing efforts to grow and advance in my field:
-
-- 🎓 **Introduction to Cybersecurity Bootcamp - Cohort 7** – [CyberTalents](link-to-certification) – **May 2024**  
-  Certificate ID: 00000000015
-  
-- 🖥️ **NDG Linux Unhatched** – [Cisco Networking Academy](link-to-certification) – **May 2024**  
-  [View Certificate](link-to-reference)
-
-- 🐍 **Python Developer** – [Sololearn](link-to-certification) – **May 2024**  
-  [View Certificate](link-to-reference)
-
-- 🌐 **Networking Devices and Initial Configuration** – [Cisco](link-to-certification) – **April 2024**  
-  [View Certificate](link-to-reference)
-
-- ⌨️ **Typing Certificate** – [Ratatype](link-to-certification) – **February 2024**  
-  Certificate ID: 6870152  
-  [View Certificate](link-to-reference)
-
-- 🎓 **Certificate of Baccalaureate** – [MINISTÈRE DE L'ÉDUCATION NATIONALE, Morocco](link-to-certification) – **June 2023**  
-  [View Certificate](link-to-reference)
-
-- 🌐 **Networking Essentials** – [Cisco](link-to-certification) – **June 2023**  
-  [View Certificate](link-to-reference)
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/yaaqoub-charkouk/))  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-link)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link)
 
 ---
 
-## 🏆 Awards & Distinctions
-
-Here are some of the prestigious awards and distinctions I have received:
-
-- 🏅 **Regional Baccalaureate Excellence Award (Computer Maintenance and Networks)**  
-  **Issued by**: Regional Directorate of the Ministry of National Education, Fnideq Strait  
-  **Year**: **2023**  
-  Recognized for my exceptional academic performance in Computer Maintenance and Networks during the Baccalaureate.
-
-- 🌟 **Scientific and Industrial Pole, First Class (High School Academic Excellence Award)**  
-  **Issued by**: Al Imam Al Ghazali Qualifying High School, Martil  
-  **Year**: **2022**  
-  Awarded for academic excellence and achievements during high school, recognizing my dedication and hard work.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Networking](https://img.shields.io/badge/Networking-%230A0.svg?style=for-the-badge&logo=network&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🔧 Skills
-
-### 🖥️ **Technical Skills**:
-- **Networking**: Cisco Packet Tracer, Network Configuration, Troubleshooting
-- **Programming**: Python, JavaScript, HTML/CSS
-- **Tools & Platforms**: Microsoft Office Suite, GitHub, Cisco Networking Tools
-- **Cybersecurity**: Digital Forensics, Ethical Hacking (CTF Challenges)
-
----
-
-## 🌐 Languages
-
-- **Arabic**: Native proficiency
-- **English**: Proficient
-- **French**: Proficient
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaaqoubCharkouk&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaaqoubCharkouk&layout=compact&hide_title=true&theme=radical)](https://github.com/YaaqoubCharkouk/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=blue-green&hide_border=false)
 
 ---
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YaaqoubCharkouk&theme=radical&no-frame=true&column=4)
-
----
-
-## 📅 My Contribution Calendar
-
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=YaaqoubCharkouk&theme=github)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
-## 📚 Featured Articles
+[![](https://visitcount.itsvg.in/api?id=yaaqou&icon=4&color=1)](https://visitcount.itsvg.in)
 
-### **An In-Depth Analysis of the Email 102 Forensics Challenge**
-- **Category**: Digital Forensics
-- **Event**: Introduction to Cyber Security CTF 2024
-- **Date**: May 11, 2024
-- [Read the full article](link-to-article)
-
----
-
-## 💬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yaaqoub-charkouk)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:youremail@example.com)
-- [Personal Website](https://yourwebsite.com)
-
----
-
-## 🚀 My Work Flow
-
-1. **Plan**: Understand the problem, design the solution.
-2. **Build**: Code the solution using best practices.
-3. **Test**: Use automated tests and manual verification.
-4. **Deploy**: Deploy to cloud platforms, manage CI/CD.
-5. **Collaborate**: Collaborate with the community, share knowledge.
-
----
-
-### Thank you for visiting my GitHub profile! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
