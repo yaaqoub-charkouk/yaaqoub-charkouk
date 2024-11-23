@@ -28,7 +28,7 @@
             <div style="font-size:14px;padding:4px 6px;border-radius:5px;background: #4caf50 ;color:#ffffff">
                 STUDENT </div>
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center">
-                <img src="" width="57" height="15" fill="#ffffff" viewBox="0 0 57 15">
+                <img src="https://raw.githubusercontent.com/yaaqoub-charkouk/yaaqoub-charkouk/1a898379e58a7026f9023cb19d5198e60631ea8b/1337.svg" width="57" height="15" fill="#ffffff" viewBox="0 0 57 15">
                 <img src="https://raw.githubusercontent.com/yaaqoub-charkouk/yaaqoub-charkouk/b6fe12d1c52a3b6851435f5f1c9314be29dc0258/42.svg" width="57" height="15" fill="#ffffff" viewBox="0 0 57 15" style="margin-left:20px;">
             </div>
         </div>
