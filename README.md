@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaaqoub CHARKOUK</h1>
 
-<h1 align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ycharkou" alt="ycharkou's 42 stats" /></a></h1>
+<h1 align="center"><a href="https://www.linkedin.com/in/yaaqoub-charkouk/"><img src="https://badge.mediaplus.ma/greenbinary/ycharkou" alt="ycharkou's 42 stats" /></a></h1>
 <h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
 
 - 🔭 I’m currently working on **coding projects** as part of my journey at [1337 School](https://1337.ma/), a proud member of the 42 Network.
