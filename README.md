@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaqoub Charkouk</h1>
-
+<h1 align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ycharkou" alt="ycharkou's 42 stats" /></a></h1>
 <h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
 
 - 🔭 I’m currently working on **coding projects** as part of my journey at [1337 School](https://1337.ma/), a proud member of the 42 Network.
@@ -11,8 +11,6 @@
 - 📚 I am pursuing my degree in **Mathematics and Computer Science** at the Faculty of Science in Tétouan.
 
 - ⚡ Fun fact: **I thrive on problem-solving and teamwork!**
-
-<h1 align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ycharkou" alt="ycharkou's 42 stats" /></a></h1>
 ---
 
 ## 🌐 Connect with Me:
