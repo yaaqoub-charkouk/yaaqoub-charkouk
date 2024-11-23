@@ -1,7 +1,7 @@
 <h1 align="center">Yaaqoub CHARKOUK</h1>
 
 <h1 align="center"><a href="https://www.linkedin.com/in/yaaqoub-charkouk/"><svg xmlns="http://www.w3.org/1999/xhtml">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height: 210px;border-radius:10px;background-image:url(file:////Users/ycharkou/Downloads/download.gif);background-repeat:no-repeat;background-size:cover;background-position:center">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height: 210px;border-radius:10px;background-image:url(https://github.com/yaaqoub-charkouk/yaaqoub-charkouk/blob/main/download.gif?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center">
         
         <div xmlns="http://www.w3.org/1999/xhtml" id="hh" style="display: flex;justify-content: space-between;margin-bottom: 20px;align-items: center;">
 <h2 xmlns="http://www.w3.org/1999/xhtml" class="slideDown" style="margin:0;font-size:18px;"><span>Yaaqoub Charkouk</span>'s Profile
