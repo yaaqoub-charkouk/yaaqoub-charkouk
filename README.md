@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact: **I thrive on problem-solving and teamwork!**
 
+[![ycharkou's 42 stats](https://badge.mediaplus.ma/greenbinary/ycharkou)](https://github.com/oakoudad/badge42)
 ---
 
 ## 🌐 Connect with Me:
