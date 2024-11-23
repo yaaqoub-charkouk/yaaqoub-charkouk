@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://www.linkedin.com/in/yaaqoub-charkouk/">
-    <div style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height: 210px;border-radius:10px;background-image:url(https://github.com/yaaqoub-charkouk/yaaqoub-charkouk/blob/main/download.gif?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center">
+    <div style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height: 210px;border-radius:10px;background-color:#000;display:flex;flex-direction:column;align-items:center;justify-content:center">
         
         <div style="display: flex;justify-content: space-between;margin-bottom: 20px;align-items: center;">
           <h2 class="slideDown" style="margin:0;font-size:18px;">
@@ -10,7 +10,7 @@
           </h2>                 
         </div>
         
-        <div class="slideDown" style="margin-bottom:20px;display:flex;align-items:center">
+        <div class="slideDown" style="margin-bottom:20px;display:flex;align-items:center;justify-content:center">
             <div style="margin-right:20px;height:75px;width:75px;border-radius:10px;background:#f0f0f0;background-image:url(https://github.com/yaaqoub-charkouk/yaaqoub-charkouk/blob/main/download.jpeg?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center"></div>
             <table style="font-size:16px">
                 <tr>
@@ -29,7 +29,7 @@
         </div>
 
         <div style="display:flex;justify-content:space-between;align-items:center">
-            <div style="font-size:14px;padding:4px 6px;border-radius:5px;background: #4caf50 ;color:#ffffff">
+            <div style="font-size:14px;padding:4px 6px;border-radius:5px;background: #4caf50;color:#ffffff">
                 STUDENT 
             </div>
             <div style="display:flex;align-items:center">
@@ -40,6 +40,7 @@
     </div>
   </a>
 </h1>
+
 
 <h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
 
