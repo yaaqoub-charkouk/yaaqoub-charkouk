@@ -16,8 +16,6 @@
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/yaaqoub-charkouk/))  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link)
 
 ---
 
@@ -27,8 +25,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=blue-green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=blue-green&hide_border=false)
 
 ---
 
