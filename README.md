@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
- <a href="https://linkedin.com/yaaqoub-charkouk"><img src="https://badge.mediaplus.ma/black/ycharkou" alt="ycharkou's 42 stats" /></a>
+ <a href="https://linkedin.com/yaaqoub-charkouk"><img src="https://github.com/yaaqoub-charkouk/yaaqoub-charkouk/blob/main/ycharkou.svg" alt="ycharkou's 42 stats" /></a>
 </h1>
 <h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
 
