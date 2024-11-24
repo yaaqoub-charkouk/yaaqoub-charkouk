@@ -2,53 +2,8 @@
 
 
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/yaaqoub-charkouk/">
-    <div style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height: 210px;border-radius:10px;background-color:#000;display:flex;flex-direction:column;align-items:center;justify-content:center">
-        
-        <div style="display: flex;justify-content: space-between;margin-bottom: 20px;align-items: center;">
-          <h2 style="margin:0;font-size:18px;">
-            <span>Yaaqoub Charkouk</span>'s Profile
-          </h2>                 
-        </div>
-        
-        <div style="margin-bottom:20px;display:flex;align-items:center;justify-content:center">
-            <!-- Use a simple image tag for the profile picture -->
-            <div style="margin-right:20px;height:75px;width:75px;border-radius:10px;">
-                <img src="https://github.com/yaaqoub-charkouk/yaaqoub-charkouk/blob/main/download.jpeg?raw=true" alt="Profile Picture" style="width:100%;height:100%;border-radius:10px;">
-            </div>
-            <table style="font-size:16px">
-                <tr>
-                    <td style="padding-right:10px">name:</td>
-                    <td>Yaaqoub Charkouk</td>
-                </tr>
-                <tr>
-                    <td style="padding-right:10px">email:</td>
-                    <td>ycharkou@student.1337.ma</td>
-                </tr>
-                <tr>
-                    <td style="padding-right:10px">cursus:</td>
-                    <td>42cursus</td>
-                </tr>
-            </table>
-        </div>
-
-        <div style="display:flex;justify-content:space-between;align-items:center">
-            <div style="font-size:14px;padding:4px 6px;border-radius:5px;background: #4caf50;color:#ffffff">
-                STUDENT 
-            </div>
-            <div style="display:flex;align-items:center">
-                <!-- Ensure the badge images are loaded correctly -->
-                <img src="https://raw.githubusercontent.com/yaaqoub-charkouk/yaaqoub-charkouk/1a898379e58a7026f9023cb19d5198e60631ea8b/1337.svg" width="57" height="15" style="margin-right: 20px;">
-                <img src="https://raw.githubusercontent.com/yaaqoub-charkouk/yaaqoub-charkouk/b6fe12d1c52a3b6851435f5f1c9314be29dc0258/42.svg" width="57" height="15" style="margin-left:20px;">
-            </div>
-        </div>
-    </div>
-  </a>
+ <a href="https://linkedin.com/yaaqoub-charkouk"><img src="https://badge.mediaplus.ma/black/ycharkou" alt="ycharkou's 42 stats" /></a>
 </h1>
-
-
-
-
 <h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
 
 - 🔭 I’m currently working on **coding projects** as part of my journey at [1337 School](https://1337.ma/), a proud member of the 42 Network.
