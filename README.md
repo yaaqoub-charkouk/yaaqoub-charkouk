@@ -1,46 +1,81 @@
-<h1 align="center">Yaaqoub CHARKOUK</h1>
+<!-- Header -->
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+</a>
 
+# Hi, I'm Yaaqoub Charkouk 👋
 
-<h1 align="center">
- <a href="https://www.linkedin.com/in/yaaqoub-charkouk/"><img src="https://badge.mediaplus.ma/greenbinary/ycharkou" alt="ycharkou's 42 stats" />
+### 🌐 **Networking Technician | C Programmer | Computer Science Enthusiast**
 
-</h1>
-<h3 align="center">🌟 Student | Networking Technician | Computer Science Enthusiast 🌟</h3>
-
-- 🔭 I’m currently working on **coding projects** as part of my journey at [1337 School](https://1337.ma/), a proud member of the 42 Network.
-
-- 🌱 I’m actively expanding my skills in **Networking**, **C Programming**, and **Mathematics** through challenging exercises and real-world applications.
-
-- 💬 Ask me about **Computer Networking**, **System Maintenance**, or **C programming**.
-
-- 📚 I am pursuing my degree in **Mathematics and Computer Science** at the Faculty of Science in Tétouan.
-
-- ⚡ Fun fact: **I thrive on problem-solving and teamwork!**
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaaqoub-charkouk/)
+I am a **Networking Technician** and **Computer Science student** currently studying at the **Faculty of Science in Tétouan**. I'm deeply passionate about **C programming**, **Networking**, and **Mathematics**, and I'm also a proud member of [1337 School](https://1337.ma/), part of the **42 Network**. I thrive on problem-solving, working with low-level programming, and learning new concepts in **systems administration**.
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Networking](https://img.shields.io/badge/Networking-%230A0.svg?style=for-the-badge&logo=network&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 **About Me**
+
+- 🔭 **Currently Working On**: Coding projects at [1337 School](https://1337.ma/), enhancing my skills in **C programming** and **Networking**.
+- 🌱 **Learning Focus**: Improving my understanding of **Mathematics**, **Computer Networking**, and **System Design** through practical experience.
+- 🎓 **Education**: **Mathematics and Computer Science** at the **Faculty of Science in Tétouan**.
+- ⚡ **Fun Fact**: I'm a huge fan of problem-solving and enjoy collaborating with teams to tackle complex challenges.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=blue-green&hide_border=false)
+## 🛠 **Technical Skills**
+
+**Languages & Technologies**:
+<div align="center">
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Networking](https://img.shields.io/badge/Networking-%230A0.svg?style=for-the-badge&logo=network&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+</div>
+
+**Tools & Platforms**:
+<div align="center">
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+## 📊 **GitHub Stats**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+  <a href="https://github.com/yaaqoub-charkouk">
+    <img src="https://github-readme-stats.vercel.app/api?username=yaaqoub-charkouk&show_icons=true&theme=radical" style="height: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaqoub-charkouk&layout=compact&theme=dracula" style="height: 180px;">
+  </a>
+  <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yaaqou&icon=4&color=1)](https://visitcount.itsvg.in)
+## 🏆 **Achievements & Contributions**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yaaqoub-charkouk&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+---
+
+## 🌍 **Connect with Me**
+
+- [LinkedIn](https://linkedin.com/in/yaaqoub-charkouk/)
+- [Twitter](https://twitter.com/yaaqoub_charkouk)
+- [GitHub](https://github.com/yaaqoub-charkouk)
+
+---
+
+## 📚 **Education & Learning Path**
+
+- 🎓 **Degree**: **Mathematics and Computer Science**, **Faculty of Science, Tétouan**
+- 🔭 **Current Focus**: Enhancing my skills in **C programming**, **Computer Networking**, and **System Administration** at [1337 School](https://1337.ma/).
+- 🎯 **Goal**: To become a well-rounded **systems programmer** with expertise in **networking protocols**, **system design**, and **low-level programming**.
+
+---
+
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
+</a>
