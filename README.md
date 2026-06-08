@@ -1,24 +1,46 @@
-# Yaaqoub Charkouk
+<h1 align="center">Yaaqoub Charkouk</h1>
 
-Software Engineering Student @ 1337 Coding School (42 Network) & Faculty of Sciences Tetouan
+<p align="center">
+Software Engineering • Networking • AI
+</p>
 
-Interested in software engineering, backend development, systems programming, artificial intelligence, and computer networks.
+---
 
-Currently building projects in C++, Java, and Linux environments while pursuing studies in both Software Engineering and Mathematics & Computer Science.
+```cpp
+class Engineer {
+public:
+    vector<string> interests = {
+        "Software Engineering",
+        "Backend Development",
+        "Artificial Intelligence",
+        "Computer Networking",
+        "Network Software",
+        "Systems Programming",
+        "Distributed Systems",
+        "Linux"
+    };
+};
+```
 
-## Interests
+### Education
 
-* Software Engineering
-* Backend Development
-* Artificial Intelligence
-* Systems Programming
-* Computer Networks
-* Distributed Systems
-* Linux
+* 🎓 1337 Coding School (42 Network) — Software Engineering
+* 🎓 Faculty of Sciences Tetouan — Mathematics & Computer Science
 
-## Technologies
+### Technologies
 
-C/C++ • Java • Linux • SQL • Git • Docker • TCP/IP
+```text
+C/C++ | Java | Linux | Spring Boot
+SQL | Git | Docker
+TCP/IP | Routing | Switching
+```
+
+### Current Focus
+
+* Building backend systems
+* Learning advanced Java & Spring
+* Exploring AI engineering
+* Strengthening systems and networking expertise
 
 ```cpp
 while (learning)
