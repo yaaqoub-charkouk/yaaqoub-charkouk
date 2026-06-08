@@ -24,8 +24,9 @@ public:
 
 ### Education
 
-* 🎓 1337 Coding School (42 Network) — Software Engineering
-* 🎓 Faculty of Sciences Tetouan — Mathematics & Computer Science
+* 🎓 **1337 Coding School (42 Network)** — Software Engineering *(2024 – Present)*
+* 🎓 **Faculty of Sciences Tetouan** — Mathematics & Computer Science *(2023 – Present)*
+
 
 ### Technologies
 
